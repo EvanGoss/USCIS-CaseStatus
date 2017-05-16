@@ -1,0 +1,14 @@
+{
+  "name": "uscis-case-status",
+  "version": "1.0.0",
+  "description": "USCIS Case Status Dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evan Goss",
+  "license": "ISC",
+  "dependencies": {
+    "nightmare": "^2.10.0"
+  }
+}
